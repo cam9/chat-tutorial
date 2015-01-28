@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c9bd10eca1d5573c88f65fdf507a9d81c09762ff.jar"
+        jar="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/pre-dexed/debug/classes-0075a1095e6c7e8e216b030457583671143f4872.jar"
+        jar="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256"/>
+    <item
+        dex="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/pre-dexed/debug/classes-a57ae80852f2fec8b353c35292dba02ffd8b313a.jar"
+        jar="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/cameronlunt/Repos/chat-tutorial/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>
